@@ -17,7 +17,7 @@
 | Id | Regra | Site | Imagem | Descrição |
 |:--:|:-----:|:----:|:------:|:---------:|
 | 01 | #9 | Github | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/a53af8e0-2d47-4bd4-8b76-b9e01ecd356b) | Ao cometer um erro na inserção de seu login, o github mostra uma mensagem de erro e não um código |
-| 02 | #N | *** | *** | *** |
+| 02 | #8 | Fandom | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/1173cd94-f137-43bc-b4c6-928bcbdaeb48) | Esse site possui muita informação desnecessária que pode atrapalhar o usuário quando ele está procurando por alguma informação |
 | 03 | #N | *** | *** | *** |
 | 04 | #N | *** | *** | *** |
 | 05 | #N | *** | *** | *** |
