@@ -19,7 +19,7 @@
 | 01 | #9 | Github | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/a53af8e0-2d47-4bd4-8b76-b9e01ecd356b) | Ao cometer um erro na inserção de seu login, o github mostra uma mensagem de erro e não um código. |
 | 02 | #8 | Fandom | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/1173cd94-f137-43bc-b4c6-928bcbdaeb48) | Esse site possui muita informação desnecessária que pode atrapalhar o usuário quando ele está procurando por alguma informação. |
 | 03 | #4 | CurseForge | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/814457e4-e968-46ef-a1ad-aa2c5ab3c6bf) | Este site pode trazer um pouco de confusão aos usuários por ter um botão de instalar que baixa o aplicativo da plataforma e não o arquivo que você está pesquisando. |
-| 04 | #N | *** | *** | *** |
+| 04 | #1 | Youtube | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/59e68437-de8b-4268-9e57-0181fc03a8de) | Quando esta a ver um video, você saber exatamente quanto tempo já viu e quanto tempo de video ainda falta. |
 | 05 | #N | *** | *** | *** |
 | 06 | #N | *** | *** | *** |
 | 07 | #N | *** | *** | *** |
