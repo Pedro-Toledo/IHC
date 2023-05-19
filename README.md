@@ -24,5 +24,5 @@
 | 06 | #8 | One Piece EX | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/09497e07-663d-430a-96b8-073882153b18) | Muita informação em pouco espaço, atrapalhando o usuário em sua busca. |
 | 07 | #6 | Amazon | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/8a330824-4396-48bf-9bc9-0fe8947608ca) | Na hora de realizar uma compra, o site lembra pra você de seus endereços e cartões de credito salvos. |
 | 08 | #2 | Youtube | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/b65249ac-93f5-47a3-b0f0-1e8d5af478e2) | Os icones usados no youtube representam muito bem o que eles significam. |
-| 09 | #N | *** | *** | *** |
+| 09 | #8 | YoYo Games | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/51a2d9de-6002-4114-8ab5-9d08e6800055) | A página inicial do site da YoYo games mostra apenas o necessário para que seu usuário possa achar o que está procurando. |
 | 10 | #N | *** | *** | *** |
