@@ -21,7 +21,7 @@
 | 03 | #4 | CurseForge | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/814457e4-e968-46ef-a1ad-aa2c5ab3c6bf) | Este site pode trazer um pouco de confusão aos usuários por ter um botão de instalar que baixa o aplicativo da plataforma e não o arquivo que você está pesquisando. |
 | 04 | #1 | Youtube | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/59e68437-de8b-4268-9e57-0181fc03a8de) | Quando esta a ver um video, você saber exatamente quanto tempo já viu e quanto tempo de video ainda falta. |
 | 05 | #3 | Youtube | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/becb5247-f443-402a-81be-7582e4f9c185) | Na hora de postar algum video no youtube, problemas podem acontecer, mostrando o erro de forma clara e deixando tudo salvo como rascunho, permitindo que você mude apenas o que tiver dando problema. |
-| 06 | #N | *** | *** | *** |
+| 06 | #8 | One Piece EX | ![image](https://github.com/Pedro-Toledo/IHC/assets/101061910/09497e07-663d-430a-96b8-073882153b18) | Muita informação em pouco espaço, atrapalhando o usuário em sua busca. |
 | 07 | #N | *** | *** | *** |
 | 08 | #N | *** | *** | *** |
 | 09 | #N | *** | *** | *** |
